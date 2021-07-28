@@ -1,2 +1,2 @@
 # github-finder
-ReactJS app for searching Github users using the Github API.
+ReactJS app to search for github users using the Github API.
